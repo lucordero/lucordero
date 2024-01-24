@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Lucas Cordero</h1>
-<h3 align="center">A frontend developer from Argentina</h3>
+<aside class="markdown-body entry-content container-lg">
+	<div style="display: flex; flex-direction: row;" >
+		<!--<img style="width: 25px; display: inline" src="https://github.com/lucordero/lucordero/assets/47282594/ca9d66c7-9ea5-4b0b-abe2-8ac8db5efc3d" />-->
+		<h3 style="display: inline">Hello 👋</h3>
+	</div>
+    	<h4>A Full-Stack Developer by day ☼ and a Gamer by night ☾</h4>
+    <p>Full-Stack Developer at <a href="https://www.defensasantafe.gob.ar/"
+           rel="nofollow">SPPDP</a>;<br>
+    </p>
+    <ul>
+        <li>⚙️ I use daily: <code>.php</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>,
+            <code>.twig</code></li>
+        <li>🧩 In personal projects using <code>.astro</code>, <code>.jsx</code>.</li>
+        <li>💅 View my projects in my porfolio: <a href="#"
+               rel="nofollow">HERE! (In progress)</li>
+        <li>💬 <code>ping</code> me about <strong>design</strong>, <strong>branding</strong>, <strong>symfony</strong>,
+            <strong>development</strong>, <strong>design thinking</strong></li>
+    </ul>
 
-- 🌱 I’m currently learning **React and Mastering Php**
+[![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascordero/)](https://www.linkedin.com/in/lucascordero/)
+[![InstagramBadge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.crd/)](https://www.instagram.com/lucas.crd/)
+[![GmailBadge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@lucascordero1997@gmail.com)](mailto:mail@lucascordero1997@gmail.com)
 
-- 📫 How to reach me **lucascordero1997@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucascordero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucascordero/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left">
-  	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-	<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-	<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-	<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-</p>
-
+</aside>

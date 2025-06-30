@@ -11,7 +11,7 @@
         <li>⚙️ I use daily: <code>.php</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>,
             <code>.twig</code></li>
         <li>🧩 In personal projects using <code>.astro</code>, <code>.jsx</code>.</li>
-        <li>💅 View my projects in my porfolio: <a href="https://lucordero.dev.ar"
+        <li>💅 View my projects in my porfolio: <a href="https://lucascordero.dev.ar"
                rel="_blank">HERE!</li>
         <li>💬 <code>ping</code> me about <strong>design</strong>, <strong>branding</strong>, <strong>symfony</strong>,
             <strong>development</strong>, <strong>design thinking</strong></li>
